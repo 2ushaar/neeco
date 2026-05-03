@@ -1,0 +1,6 @@
+google-genai>=1.74.0
+PyQt6>=6.7.0
+mss>=10.0.0
+keyboard>=0.13.5
+Pillow>=10.0.0
+python-dotenv>=1.0.0
